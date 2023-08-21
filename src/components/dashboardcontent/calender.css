@@ -1,0 +1,31 @@
+.fc-button-group{
+    direction:ltr;
+}
+.fc-direction-ltr .fc-daygrid-event.fc-event-end{
+    background:#f25f5c;
+    border:none;
+    text-align:center;
+}
+.fc .fc-button-primary {
+    background:#5254FB;
+    border:none;
+    margin:0px 5px;
+}
+.progress-bar{
+    background:  #f25f5c !important;
+}
+.fc-prev-button{
+    background:#5254FB !important;
+    border:none !important;
+}
+.fc-next-button{
+    background:#5254FB !important;
+    border:none !important;
+    margin-left: 2px !important;
+}
+.fc-today-button{
+    background: #f25f5c !important;
+    border:none !important;
+    margin-left: 2px !important;
+
+}

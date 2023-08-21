@@ -1,0 +1,119 @@
+.herosectionnavbar{
+    background-image: linear-gradient(to right, #5254FB, #9C9DFC)!important;
+    
+
+}
+.dropdownnav{
+
+    color: #fff!important;
+}
+
+.tamas>button{
+    padding: 0;
+    margin: 0;
+    background-color: transparent !important;
+
+}
+
+.fixedn {
+    position: fixed!important;
+    /* overflow: hidden!important; */
+    top: 0 !important;
+    z-index: 1000 !important;
+}
+.searchicon{
+    /* width: 120%; */
+    height: 100%;
+    background-color: #5254FB;
+    padding-right: 10px;
+    border-radius: 12px;
+}
+.navlink3{
+    border-bottom:5px solid transparent !important;
+    /* font-size: 12px; */
+    transition:border-bottom 0.3s!important ;
+    /* border-bottom:5px solid transparent !important; */
+
+}
+
+.navlink3:hover{
+
+    border-bottom:5px solid #f25f5c !important; 
+    
+}
+.navcall{
+    display: inline;
+}
+.navcall>div>a{
+    color:#fff !important;
+}
+.navacardion{
+    display: none;
+}
+/* .navacardion>div>h2>button{
+    padding: 0!important;
+    background-color: none!important;
+} */
+
+@media screen and (min-width:1400px) {
+    .reigesterbtn{
+        position: absolute;
+        /* position-absolute top-50 start-0 translate-middle-y */
+        
+        left:0;
+        
+    }
+}
+@media screen and (min-width:1200px) {
+    .reigesterbtn{
+        position: absolute;
+        
+        
+        left:0;
+        
+    }
+}
+@media screen and (max-width:1199.999px) {
+    .reigesterbtn{
+        position: absolute;
+        
+        
+        left:0;
+        
+    }
+}
+
+@media screen and (max-width:991.999px) {
+    .reigesterbtn{
+        position: absolute;
+        /* position-absolute top-50 start-0 translate-middle-y */
+        top: -40px;
+        left:70px;
+        margin-bottom: 10px;
+        
+    }
+    .navacardion{
+        display: inline;
+    }
+    .navcall{
+        display: none;
+    }
+}
+/* @media screen and (max-width:768px) {
+    .reigesterbtn{
+        margin:0 30%;
+        
+    }
+} */
+/* @media screen and (max-width:576px) {
+    .reigesterbtn{
+        margin:0 25%;
+        
+    }
+} */
+/* @media screen and (max-width:480px) {
+    .reigesterbtn{
+        margin:0 25%;
+        
+    }
+} */

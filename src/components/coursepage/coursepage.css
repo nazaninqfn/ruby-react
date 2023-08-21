@@ -1,0 +1,36 @@
+.cdf{
+    border: none !important;
+}
+.hh{
+    border: none !important;
+}
+@media screen and (max-width: 480px) {
+    .cdf{
+        width:100px !important;
+        margin-left: 50px;
+    }
+    .hh>img{
+        width: 20px;
+    }
+
+  
+  }
+  @media screen and (max-width: 576px) {
+    .cdf{
+        width:100px !important;
+        margin-left: 50px;
+    }
+    .hh>img{
+        width: 20px;
+    }
+
+  
+  }
+  @media screen and (max-width: 768px) {
+   
+    .cdf{
+        width:50px !important;
+    }
+   
+ 
+}

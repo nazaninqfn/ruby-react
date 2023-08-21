@@ -1,0 +1,61 @@
+@media screen and (min-width: 992px) {
+    
+}
+@media screen and (min-width: 992px) {
+    .relatednewscontainernazi{
+        display: flex !important;
+        justify-content: center !important;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    /* .nazinewspic{
+        display: none;
+    }
+    .nazinewspic>.img{
+        display: none;
+    } */
+    .relatednewscontainernazi{
+        display: none !important;
+    }
+    
+    
+    
+}
+
+@media screen and (min-width: 576px) {
+    /* .nazinewspic{
+        display: none;
+    }
+    .nazinewspic>.img{
+        display: none;
+    } */
+    .relatednewscontainernazi{
+        display: none !important;
+    }
+    
+}
+@media screen and (min-width: 480px) {
+    /* .nazinewspic{
+        display: none;
+    }
+    .nazinewspic>.img{
+        display: none;
+    } */
+    .relatednewscontainernazi{
+        display: none !important;
+    }
+    
+}
+@media screen and (max-width: 480px) {
+    /* .nazinewspic{
+        display: none;
+    }
+    .nazinewspic>.img{
+        display: none;
+    } */
+    .relatednewscontainernazi{
+        display: none !important;
+    }
+    
+}

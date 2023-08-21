@@ -1,0 +1,21 @@
+@font-face {
+    font-family:'yekan';
+    font-style: normal;
+    src: url('./Iranian\ Sans.ttf');
+}
+
+
+.fonts{
+    font-family:'yekan';
+}  
+@font-face {
+    font-family:'iran';
+    font-style: normal;
+    src: url('Iranian Sans.ttf');
+}
+.fonts{
+    font-family:'iran';
+}  
+body{
+    font-family:'iran';
+}

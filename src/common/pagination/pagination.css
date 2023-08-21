@@ -1,0 +1,77 @@
+.pagi{ 
+    justify-content: center;
+    margin-top: 70px;
+    margin-bottom: 80px;
+    margin-right: -40px;
+    
+}
+
+.LinkPage{
+    background:0 none;
+}
+
+.LinkPage > img{
+    height: 45px;
+    cursor: pointer;
+    margin-right: -8px !important;
+    margin-top: -5px;
+}
+
+.LinkPage:focus{
+    background-color: rgba(6,71,137, 60%);
+    border-radius: 100%;
+}
+
+.ItemPage{
+    margin: 17px 5px;
+    color: #fff; 
+}
+
+.pagi > li {
+    width: 45px;
+    height: 45px;
+    margin-right: 10px !important;
+    border-radius: 100%;
+} 
+
+.page-item{
+    background-color: rgba(6,71,137, 60%);
+    color: #fff !important;
+    border-radius: 100px;
+    cursor: pointer;
+    margin: 2px !important;
+}
+
+.page-item.active{
+    background-color: rgba(6,71,137, 60%);
+    color: #fff;
+    border-radius: 100px;
+}
+
+.page-item.active > .page-link:focus{
+    background-color: rgba(6,71,137, 60%);
+    color: #fff;
+    border-radius: 100%;
+}
+.page-item.active > .page-link {
+    background-color: rgba(6,71,137, 60%);
+    color: #fff;
+    border-radius: 100%;
+}
+
+.page-link{
+    color: #fff;
+    line-height:32px;
+    border-radius: 100px;
+    transition: 0.5s;
+    width: 45px;
+    height: 45px;
+}
+.page-link:hover{
+    color: #fff;
+    background-color: transparent;
+}
+
+.shomare{
+    font-size:20px;
+}

@@ -1,0 +1,163 @@
+.herosectionimgmp>div>div>svg{
+    /* width: 100%; */
+    /* height: 80%; */
+    float: left;
+
+
+}
+@media screen and (min-width:992px){
+    .designorg{
+        display: none!important;
+    }
+    .herosectionmp{
+        padding-top: 3rem!important;
+
+    }
+    .herosectionimgmp{
+        margin-top: 3rem!important;
+    }
+    
+    
+}
+
+@media screen and (max-width:992px){
+    .supportimg{
+        display:none;
+    }
+    /* .herosectionmp{
+        top:35%;
+        right: 25%;
+        position: absolute;
+
+    } */
+    .herosectionimgmp{
+        padding-top: 1.5rem!important;
+        margin-top: 3rem!important;
+        /* width: 100%!important;
+        flex: 0 0 auto!important; */
+
+    }
+    
+    .HIl>div>svg{
+        width:140% ;
+        float: left;
+        padding-right: 30px;
+    
+    }
+    
+}
+@media screen and (max-width:768px){
+    .herosectionmp{
+        padding-right: .5rem!important;
+        /* margin-top: 3rem!important; */
+    }
+    .HIl{
+        display: inline!important;
+    }
+    .HIm{
+        display: none!important;
+    }
+}
+@media screen and (min-width:767.9999px){
+    .herosectionmp{
+        padding-right: .5rem!important;
+        /* margin-top: 3rem!important; */
+        margin-top: 100px!important;
+
+    }
+    .HIl{
+        display: inline!important;
+    }
+    .HIm{
+        display: none!important;
+    }
+}
+@media screen and (max-width:767.9999px){
+    .herosectionmp{
+        top:210px;
+        right: 25%;
+        position: absolute;
+        font-size: small;
+
+    }
+    .HIl{
+        display: none!important;;
+    }
+    .HIm{
+        display: inline!important;
+        
+    
+    }
+    .pajohesh,.introtext,.sepehr{
+        color:rgb(255, 255, 255);
+    
+    }
+    .pajohesh,.introtext{
+        margin-right: 15px;
+
+    }
+}
+@media screen and (min-width:576px){
+    .btna{
+        display: none!important;
+    }
+}
+@media screen and (max-width:576px){
+    /* .herosectionmp{
+        top:160px;
+        right: 25%;
+        position: absolute;
+
+    } */
+    .btn3{
+        display: none!important;
+    }
+    .btna{
+        display: inline!important;
+    }
+
+
+    .pajohesh,.introtext{
+        margin-right: 15px;
+
+    }
+    .herosectionmp{
+        /* top:210px; */
+        /* right: 25%; */
+        /* position: absolute; */
+
+        font-size: small;
+
+    }
+
+}
+@media screen and (max-width:480px){
+.introtext{
+    font-size:small;
+}
+}
+/* @media screen and (max-width:480px){
+    .herosectionmp{
+        top:300px;
+        right: 25%;
+        position: absolute;
+
+    }
+}
+@media screen and (max-width: 602px) and (min-width: 480px) {
+    .herosectionmp{
+        top: 300px!important;;
+        right: 25%;
+        position: absolute;
+
+    }
+}
+@media screen and (max-width: 992px) and (min-width: 480px) {
+    .herosectionmp{
+        top:300px;
+        right: 25%;
+        position: absolute;
+
+    }
+}
+ */

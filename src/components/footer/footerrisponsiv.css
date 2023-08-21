@@ -1,0 +1,34 @@
+@media screen and (max-width:992px){
+    .footcontainer{
+        position:relative;
+        bottom: 0;
+    }
+    .footlink{
+        position: relative;
+        left:200px;
+        top: -70px;
+    }
+    .footcontact{
+        position: relative;
+        right:250px;
+        top:-320px;
+        
+    }
+    .footform{
+        border:1px solid red;
+        position: relative;
+        top:-300px;
+    }
+    
+}
+.flink{
+    color: white;
+    text-decoration:underline solid rgb(255, 255, 255) 1px!important;
+    display: inline;
+    transition: color 0.3s!important;
+
+}
+.flink:hover{
+    transition: text-decoration 0.3s!important;
+    text-decoration:underline solid #FE7567 1px!important;
+}

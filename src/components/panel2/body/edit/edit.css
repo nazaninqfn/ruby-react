@@ -1,0 +1,12 @@
+@media screen and (max-width:767.999px) {
+    .size1>label{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    /* .birthDate>label>input{
+        width:316%!important;
+    } */
+}
+.birthDate>label>input{
+    width:150%;
+}

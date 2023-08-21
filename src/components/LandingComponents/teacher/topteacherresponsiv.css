@@ -1,0 +1,35 @@
+@media screen and (max-width:992px){
+   .teachcontainer > .teachcard{
+        width:29%;
+        height: 250px;
+   }
+   
+    .teachcontainer > .teachcard > .teachpic{
+        margin-left:50px ;  
+    }
+    
+}
+@media screen and (max-width:768px){
+   
+    .teachcontainer > .teachcard{
+         width:49%;
+        height:200px;
+        margin-right:25% ;
+    }
+    .teachcontainer > .teachcard > .teachpic{
+        margin-right:20px;
+       
+    }
+ }
+@media screen and (max-width:576px){
+   
+    .teachcontainer > .teachcard{   
+        width:80%;
+        margin-right:10% ;
+    }
+    .teachcontainer > .teachcard > .card-body{
+        margin-top:200px;    }
+    .teachcontainer > .teachcard > .teachpic{
+        margin-right:15px;
+    }
+ }

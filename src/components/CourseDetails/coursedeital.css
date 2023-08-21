@@ -1,0 +1,105 @@
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link.nav-link.active{
+    background-color: #F3F3F3!important;
+    border-bottom: 3px solid #FE7567!important;
+    
+}
+.nazitabhover:hover{
+    color :#FE7567!important;
+}
+
+@media screen and (min-width: 1200px) {
+    .nazi1profile{
+        top:10px;
+        position: relative;
+        width: 65px !important;
+    }
+
+    
+}
+
+@media screen and (min-width: 992px) {
+    .nazi1profile{
+        top:10px;
+        position: relative;
+        width: 65px !important;
+    }
+
+    
+}
+@media screen and (min-width: 576px) {
+    .nazi1profile{
+        top:10px;
+        position: relative;
+        width: 65px !important;
+    }
+
+    
+}
+@media screen and (min-width: 480px) {
+    .nazi1profile{
+        top:10px;
+        position: relative;
+        width: 65px !important;
+    }
+
+    
+}
+@media screen and (max-width: 480px) {
+    .nazi1profile{
+        top:10px;
+        position: relative;
+        width: 65px !important;
+    }
+
+    
+}
+@media screen and (max-width: 480px) {
+    .nazi2profile{
+        
+        width: 65px !important;
+    }
+
+    
+}
+
+@media screen and (max-width: 576px) {
+    .nazi2profile{
+        
+        width: 65px !important;
+        
+    }
+    
+
+    
+}
+
+@media screen and (max-width: 768px) {
+    .nazi2profile{
+        
+        width: 65px !important;
+    }
+
+    
+}
+
+@media screen and (min-width: 992px) {
+    .nazi2profile{
+        
+        width: 65px !important;
+    }
+
+    
+}
+@media screen and (min-width: 1200px) {
+    .nazi2profile{
+        
+        width: 65px !important;
+    }
+
+    
+}
+
+
+
+

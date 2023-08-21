@@ -1,0 +1,12 @@
+@media screen and (max-width:480px) {
+    .loginimgn{
+        display: none;
+    }
+
+}
+@media screen and (max-width:768px) {
+    .loginimgn{
+        display: none;
+    }
+
+}

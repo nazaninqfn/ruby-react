@@ -1,0 +1,43 @@
+.redhover{
+    transition: background 0.3s ,color 0.3s!important;
+}
+
+    
+.redhover:hover {
+    color: #fff!important;
+    border:1px solid  transparent!important;
+    background: #fa9f9d!important;
+    transition: background 0.3s ,color 0.3s!important;
+}
+
+.purplehover{
+    background: #5254FB!important;
+    transition: background 0.3s ,color 0.3s!important;
+
+}
+.purplehover:hover {
+    color: #fff!important;
+    border:1px solid  transparent!important;
+    background: #9C9DFC!important;
+    transition: background 0.3s ,color 0.3s!important;
+}
+.menuhover{
+    width:90%;
+    border: solid 2px transparent!important;
+    margin: .25rem 0;
+}
+.menuhover:hover{
+    width:90%;
+    border: solid 2px #9C9DFC !important;
+    border-radius: 12px;
+    
+} 
+.menuhover.active{
+    width:90%;
+    border: solid 1px transparent!important;
+    border-radius: 12px;
+    background: #9C9DFC !important;
+}
+.menuhover>a{
+    color: #fff !important;
+}

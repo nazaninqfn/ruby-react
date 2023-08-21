@@ -1,0 +1,10 @@
+@media screen and (max-width:768px) {
+    .forgetimgn{
+        display: none;
+    }
+    
+    .forgetcard{
+        flex: 0 0 auto!important;
+        width: 100%!important;
+    }
+}
